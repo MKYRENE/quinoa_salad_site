@@ -1,0 +1,41 @@
+/* // IMAGE STYLING // */
+img {
+  height: 200px;
+}
+
+h1{
+    color: #b7b2d7;
+    position:relative;
+
+}
+
+/* // INTRDUCTION DESCRIPTION // */
+.description {
+  font-size: 20px
+}
+/* BODY SECTION  */
+body {
+background-color: rgb(117, 96, 132);
+color:aliceblue
+}
+/* // COOK TIME SECTION // */
+#cook-time {
+  font-weight: bold;
+}
+/* // ---INGREDIANT LIST-------------// */
+
+.ingredients li {
+  list-style: square;
+}
+/* PREPERATION TIME */
+p.time {
+  color:rgb(225, 125, 97);
+}
+/* // LINKS // */
+.external-link {
+  color:rgb(31, 202, 232);
+}
+
+h1,h2,p,li {
+  font-family: Helvetica;
+}
